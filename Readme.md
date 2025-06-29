@@ -71,7 +71,7 @@ S9.sim_graph.txt
 ## 参考文献
 1. *Gan X, Shu Z, Wang X, et al. Network medicine framework reveals generic herb-symptom effectiveness of traditional Chinese medicine[J]. Science Advances, 2023, 9(43): eadh0215.*
 2. *Morselli Gysi D, Do Valle Í, Zitnik M, et al. Network medicine framework for identifying drug-repurposing opportunities for COVID-19[J]. Proceedings of the National Academy of Sciences, 2021, 118(19): e2025581118.*
-3. *Bang D. Biomedical knowledge graph learning for drug repurposing by extending guilt-by-association to multiple layers[J].*
-4. *Spector J, Aldana A, Sebek M, et al. Transformers Enhance the Predictive Power of Network Medicine[J]. Pharmacology and Therapeutics, 2025.*
+3. *Bang D, Lim S, Lee S, et al. Biomedical knowledge graph learning for drug repurposing by extending guilt-by-association to multiple layers[J]. Nature Communications, 2023, 14(1): 3570.*
+4. *Spector J, Aldana A, Sebek M, et al. Transformers Enhance the Predictive Power of Network Medicine[J]. medRxiv, 2025: 2025.01. 27.25321204.*
 
 
